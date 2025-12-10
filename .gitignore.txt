@@ -1,0 +1,25 @@
+# Ignore Visual Studio folder
+.vs/
+
+# Ignore Unity Library
+Library/
+
+# Ignore Unity temp stuff
+Temp/
+Obj/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Builds
+Build/
+Builds/
+
+# Auto-generated files
+*.csproj
+*.sln
+*.user
+*.vsconfig
+
+# Unity crash reports
+sysinfo.txt
